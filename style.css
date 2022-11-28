@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Helvetica;
+}
+
+h1{
+    color:#375e97;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    border-bottom: 5px dotted  #375e97;
+}
+
+.p1{
+    color:#999999 ;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+.hi{
+    background-color:#eeeeee;
+    border: 5px solid purple;
+    padding: 2%;
+}
+
+a:link{
+    color:#82b8de;
+    text-decoration: none;
+}
+a:visited{
+    color:#2b99e6;
+    text-decoration: none;
+}
